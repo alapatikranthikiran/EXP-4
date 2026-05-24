@@ -50,6 +50,7 @@ Bridge rectifier with filter:
 
 TABULAR COLUMN
 
+
 Half Wave Rectifier with and without filter:
 
 <img width="1280" height="373" alt="image" src="https://github.com/user-attachments/assets/42f624ae-829a-4caa-b052-e478636f52fe" />
@@ -57,12 +58,15 @@ Half Wave Rectifier with and without filter:
 
 TABULAR COLUMN
 
+
 Full Wave Rectifier with and without filter:
 
 <img width="1280" height="376" alt="image" src="https://github.com/user-attachments/assets/c6e2df56-a52b-43cc-9d1d-b234652956a8" />
 
 
 WAVEFORM:
+
+
 Half wave:
 
 
@@ -81,5 +85,6 @@ Full wave:
 
 
 RESULT:
+
 
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
